@@ -17,7 +17,7 @@ Bu proje, YouTube üzerindeki videoları kolayca telefonunuza indirmenize olanak
 2. Android cihazınıza kurulumu yapın.
 3. YouTube linkini yapıştırın, kaliteyi seçin ve indirmeyi başlatın.
 
-## 📝 Lisans
+##  Lisans
 Bu proje **GPL-3.0** lisansı altında açık kaynaklıdır.
 
 ---
