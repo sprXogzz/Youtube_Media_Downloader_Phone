@@ -1,17 +1,25 @@
-# yt_medya_indirici
+# YouTube Medya İndirici (Android)
 
-A new Flutter project.
+Bu proje, YouTube üzerindeki videoları kolayca telefonunuza indirmenize olanak tanıyan bir **Flutter** uygulamasıdır. 
 
-## Getting Started
+##  Özellikler
+- **Çoklu Kalite Seçenekleri:** 1080p, 720p, 480p ve 360p gibi farklı kalite seçenekleri.
+- **Format Desteği:** Video (MP4) veya sadece ses (MP3) olarak indirme imkanı.
+- **Kullanıcı Dostu Arayüz:** Sade ve hızlı çalışma prensibi.
 
-This project is a starting point for a Flutter application.
+##  Teknolojiler
+- **Framework:** Flutter
+- **Dil:** Dart
+- **Kütüphaneler:** YouTube akış yönetimi için özelleştirilmiş çözümler.
 
-A few resources to get you started if this is your first Flutter project:
+##  Nasıl Kullanılır?
+1. Uygulamanın en güncel APK dosyasını **Releases** kısmından indirin.
+2. Android cihazınıza kurulumu yapın.
+3. YouTube linkini yapıştırın, kaliteyi seçin ve indirmeyi başlatın.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📝 Lisans
+Bu proje **GPL-3.0** lisansı altında açık kaynaklıdır.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Bu proje geliştirilmeye devam eden bir kişisel çalışma ürünüdür.*
+*İphone için de çalışmalar devam etmektedir*.
